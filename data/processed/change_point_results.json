@@ -1,0 +1,21 @@
+{
+  "model_period_start": "1987-05-20",
+  "model_period_end": "2022-09-30",
+  "number_of_observations": 8980,
+  "change_point_index": 4520,
+  "change_point_date": "2005-02-23",
+  "credible_date_lower": "2005-02-15",
+  "credible_date_upper": "2005-03-07",
+  "mean_before": 21.42,
+  "mean_after": 75.48,
+  "absolute_change": 54.06,
+  "percentage_change": 252.35,
+  "probability_increase": 1.0,
+  "probability_decrease": 0.0,
+  "nearest_event_name": "Iraq War begins",
+  "nearest_event_date": "2003-03-20",
+  "event_signed_distance_days": -706,
+  "event_absolute_distance_days": 706,
+  "event_association_strength": "weak",
+  "event_association_note": "The nearest event is too distant to support a strong immediate temporal association."
+}

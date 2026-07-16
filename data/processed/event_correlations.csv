@@ -1,0 +1,16 @@
+date,event,category,expected_market_effect,notes,distance_days,absolute_distance_days
+2003-03-20,Iraq War begins,Geopolitical conflict,Price increase,Supply risk and Middle East instability,-706,706
+2008-07-11,Oil price reaches record highs,Economic/market shock,Price peak,Strong demand and supply pressure before crash,1234,1234
+2001-09-11,September 11 attacks,Geopolitical shock,High volatility,Global uncertainty and demand concerns,-1261,1261
+2008-09-15,Lehman Brothers collapse,Global financial crisis,Price decline,Global recession and demand collapse,1300,1300
+2011-02-15,Libyan civil war escalates,Geopolitical conflict,Price increase,Supply disruption from Libya,2183,2183
+1997-07-02,Asian financial crisis begins,Economic shock,Price decline,Lower demand expectations from Asian economies,-2793,2793
+2014-11-27,OPEC decides not to cut production,OPEC policy,Price decline,Market oversupply and price collapse,3564,3564
+2016-11-30,OPEC agrees production cuts,OPEC policy,Price increase,Supply control to support prices,4298,4298
+2018-05-08,US withdraws from Iran nuclear deal,Sanctions,Price increase,Expected reduction in Iranian oil exports,4822,4822
+1991-01-17,Operation Desert Storm begins,Geopolitical conflict,High volatility,Military action in oil-producing region,-5151,5151
+2019-09-14,Saudi Aramco facilities attacked,Supply shock,Price increase,Temporary disruption to major oil infrastructure,5316,5316
+1990-08-02,Iraq invades Kuwait,Geopolitical conflict,Price increase,Gulf War supply fear and regional instability,-5319,5319
+2020-03-11,WHO declares COVID-19 pandemic,Global economic shock,Price decline,Oil demand collapse during lockdowns,5495,5495
+2020-04-12,OPEC+ agrees historic production cuts,OPEC policy,Price stabilization,Supply cuts to respond to demand collapse,5527,5527
+2022-02-24,Russia invades Ukraine,Geopolitical conflict/sanctions,Price increase,War and sanctions create energy supply uncertainty,6210,6210
